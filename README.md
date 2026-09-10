@@ -17,7 +17,7 @@
 🔧 Tools I Use:
 `Java` `Golang` `SQL` `NetBeans` `Visual Studio Code` `Figma` `Power BI` `Notion`
 
-📫 How to reach me: yosiasinaga@gmail.com
+📫 How to reach me: yosiaparadesinaga@gmail.com
 
 ---
 
